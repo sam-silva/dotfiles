@@ -4,6 +4,7 @@
 # open mpv with url from clipboard
 # cmd - m : open -na /Applications/mpv.app $(pbpaste)
 
+
 # focus window
 alt - x : yabai -m window --focus recent
 alt - h : yabai -m window --focus west
